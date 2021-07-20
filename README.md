@@ -5,4 +5,3 @@ This repository contains the projects that I completed as part of the Applied Da
     * Calling geospatial data using the Foursquare API
     * Webscraping to find data on Wikipedia
     * Using K-means clustering to generate a map of location-defined clusters
-2. kjfdljk
